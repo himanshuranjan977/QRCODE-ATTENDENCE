@@ -5,7 +5,7 @@
 - [**How to setup this project**](#how-to-setup-this-project)
 - [**Technologies Used**](#technologies-used)
 - [**features**](#features)
-- [**Usage**](#usage)
+- [**How to Usage**](#how-to-usage)
 - [**Preview**](#preview)
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
@@ -73,13 +73,13 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 
 ## **Preview**
 
-* **Library Management System**
+
 * **Landing Page**
 ![Game](src/02.png)
 * **Student Masterlist Page**
 ![Game](src/05.png)
 * **Add Student Modal**
-![Game](src/04.png)
+![Game](src/08.png)
 * **Sample Generated QR Code**
 ![Game](src/01.png)
 * **Added Student**
@@ -88,8 +88,6 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 ![Game](src/04.png)
 * **QR Detected Notification**
 ![Game](src/07.png)
-* **User login**
-![Game](src/09.png)
 * **Added Attendance**
 ![Game](src/02.png)
 
