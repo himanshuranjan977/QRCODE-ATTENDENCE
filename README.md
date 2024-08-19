@@ -97,7 +97,7 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 
 ## **Deployed link**
 
-A deployed link is the [ <a href="https://himanshuranjan977.github.io/libraryManagementSystem/" target="_blank">here</a>]  where your project is hosted and accessible to users, allowing them to interact with your application in a real environment.
+A deployed link is the [ <a href="https://himanshuranjan977.github.io/QRCODE-ATTENDENCE/" target="_blank">here</a>]  where your project is hosted and accessible to users, allowing them to interact with your application in a real environment.
 
 ## **Conclusion**
 In summary, the QR Code Attendance System simplifies attendance tracking and boosts efficiency in educational settings. By combining QR code technology with PHP and MySQL, it offers real-time updates, easy management, and detailed reporting, helping institutions save time and focus more on academic goals.
