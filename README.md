@@ -85,7 +85,7 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 * **Added Student**
 ![Game](src/03.png)
 * **Scanning QR Code**
-![Game](src/06.png)
+![Game](src/04.png)
 * **QR Detected Notification**
 ![Game](src/07.png)
 * **User login**
