@@ -81,7 +81,7 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 * **Add Student Modal**
 ![Game](src/04.png)
 * **Sample Generated QR Code**
-![Game](src/03.png)
+![Game](src/01.png)
 * **Added Student**
 ![Game](src/05.png)
 * **Scanning QR Code**
