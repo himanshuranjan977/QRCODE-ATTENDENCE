@@ -91,7 +91,7 @@ Step 9th. Run the script http://localhost/qr_attendance_db
 * **User login**
 ![Game](src/09.png)
 * **Added Attendance**
-![Game](src/10.png)
+![Game](src/02.png)
 
 
 
